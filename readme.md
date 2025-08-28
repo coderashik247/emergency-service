@@ -85,11 +85,4 @@ In the project, we do this when adding a **call history item** after clicking a 
   * `preventDefault()` → stops browser's default action.
   * `stopPropagation()` → stops the event from reaching parent elements.
 
----
 
-This project demonstrates these concepts practically:
-
-* Hearts increase a counter (`count-heart`) → DOM update and event listener.
-* Copy buttons copy service numbers → clipboard + counter (`count-copy`).
-* Call buttons deduct coins (`count-coin`) and add items to call history → DOM creation and insertion.
-* Clear history button removes all history → shows live HTMLCollection behavior.
