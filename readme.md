@@ -1,3 +1,6 @@
+# 📂 GitHub Repository: https://github.com/coderashik247/emergency-service
+# 🌐 Live Link: https://coderashik247.github.io/emergency-service/
+
 # Emergency Service Project - JavaScript DOM & Events
 
 
