@@ -21,7 +21,7 @@ for (let i = 0; i < callButtons.length; i++) {
     let currentCoin = Number(countCoinElement.innerText);
 
     if (currentCoin < 20) {
-      alert("You don't have enough coins to make this call!");
+      alert("❌ আপনার পর্যাপ্ত কয়েন নেই ! কল করতে কমপক্ষে ২০ কয়েন লাগবে ।");
       return;
     }
 
